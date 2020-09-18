@@ -1,0 +1,4 @@
+﻿  PushBox.cpp
+D:\CppWork\BookEngine\PushBox\PushBox\PushBox.cpp(78): warning C4715: 'yPosition': not all control paths return a value
+D:\CppWork\BookEngine\PushBox\PushBox\PushBox.cpp(66): warning C4715: 'xPosition': not all control paths return a value
+  PushBox.vcxproj -> D:\CppWork\BookEngine\PushBox\Debug\PushBox.exe
